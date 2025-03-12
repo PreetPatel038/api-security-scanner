@@ -17,16 +17,19 @@ This project is an **API Forensic Security Audit tool** that evaluates open-sour
 ## **Installation**
 
 ### **Step 1:Clone the Repository**
-```bash
+```
 git clone https://github.com/preetpatel038/api-security-scanner.git
-cd api-security-scanner 
-
+cd api-security-scanner
+```
 ### **Step 2:Set up Virtual Environment**
+```
 python -m venv venv
 source venv/bin/activate  # Mac/Linux
 venv\Scripts\activate  # Windows
-
+```
 **Step 3:Install Dependencies**
+```
 pip install -r requirements.txt
+```
 
 
